@@ -1,0 +1,27 @@
+name: sgpn
+channels:
+  - pytorch
+#  - fvcore
+#  - iopath
+#  - bottler
+#  - pytorch3d
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch=1.9
+  - cudatoolkit=10.2
+  - torchvision
+  - numpy
+  - pillow
+  - scipy
+  - requests
+  - tqdm
+  - ninja
+  - imageio
+#  - fvcore
+#  - iopath
+#  - nvidiacub
+#  - pytorch3d
+  - pip:
+    - kornia
+    - opencv-python

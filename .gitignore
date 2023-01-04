@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+*.zip
+*.pyc
+*.pt
+*.pth
+*.mat
+*.bin
+*.pkl
+gif
+archive
+*.ply
+*.xlsx
+*test.py
